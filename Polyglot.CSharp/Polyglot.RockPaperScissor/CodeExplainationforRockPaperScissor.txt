@@ -1,0 +1,19 @@
+﻿Explanation of the Code:
+Choices Array: An array (choices[]) holds the possible moves: "Rock", "Paper", and "Scissors".
+Random Class: We use Random to generate a random choice for the computer.
+Game Loop: The game runs in a loop until the user decides to quit by entering n.
+User Input Validation: We ensure the user enters valid input, and if not, the loop continues.
+Game Logic:
+The computer's choice and the user's choice are compared using simple if conditions to determine who wins.
+The player wins if they follow the winning rules:
+Rock beats Scissors
+Scissors beats Paper
+Paper beats Rock
+Otherwise, the computer wins.
+Play Again: After each round, the program asks if the user wants to play again, and the loop continues until they answer "n".
+How to Run It:
+Open Visual Studio or any C# IDE.
+Create a new Console Application project.
+Replace the Program.cs content with the code above.
+Run the application.
+This is a basic but fun way to demonstrate the use of conditionals, loops, random number generation, and user interaction in C#.

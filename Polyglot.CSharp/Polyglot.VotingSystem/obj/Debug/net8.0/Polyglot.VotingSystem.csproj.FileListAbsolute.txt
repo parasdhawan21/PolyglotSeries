@@ -1,0 +1,14 @@
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.VotingSystem\bin\Debug\net8.0\Polyglot.VotingSystem.exe
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.VotingSystem\bin\Debug\net8.0\Polyglot.VotingSystem.deps.json
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.VotingSystem\bin\Debug\net8.0\Polyglot.VotingSystem.runtimeconfig.json
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.VotingSystem\bin\Debug\net8.0\Polyglot.VotingSystem.dll
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.VotingSystem\bin\Debug\net8.0\Polyglot.VotingSystem.pdb
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.VotingSystem\obj\Debug\net8.0\Polyglot.VotingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.VotingSystem\obj\Debug\net8.0\Polyglot.VotingSystem.AssemblyInfoInputs.cache
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.VotingSystem\obj\Debug\net8.0\Polyglot.VotingSystem.AssemblyInfo.cs
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.VotingSystem\obj\Debug\net8.0\Polyglot.VotingSystem.csproj.CoreCompileInputs.cache
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.VotingSystem\obj\Debug\net8.0\Polyglot.VotingSystem.dll
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.VotingSystem\obj\Debug\net8.0\refint\Polyglot.VotingSystem.dll
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.VotingSystem\obj\Debug\net8.0\Polyglot.VotingSystem.pdb
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.VotingSystem\obj\Debug\net8.0\Polyglot.VotingSystem.genruntimeconfig.cache
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.VotingSystem\obj\Debug\net8.0\ref\Polyglot.VotingSystem.dll

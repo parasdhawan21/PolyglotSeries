@@ -1,0 +1,5 @@
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.VotingSystem\bin\Release\net8.0\publish\Polyglot.VotingSystem.exe
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.VotingSystem\bin\Release\net8.0\publish\Polyglot.VotingSystem.dll
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.VotingSystem\bin\Release\net8.0\publish\Polyglot.VotingSystem.deps.json
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.VotingSystem\bin\Release\net8.0\publish\Polyglot.VotingSystem.runtimeconfig.json
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.VotingSystem\bin\Release\net8.0\publish\Polyglot.VotingSystem.pdb

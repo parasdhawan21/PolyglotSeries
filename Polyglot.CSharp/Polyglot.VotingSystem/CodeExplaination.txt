@@ -1,0 +1,29 @@
+﻿Explanation of the Code:
+Candidates and Votes:
+
+We create a list candidates that holds the names of the candidates (e.g., Alice, Bob, Charlie).
+We use an integer array votes to store the number of votes for each candidate. The index in votes corresponds to the index in the candidates list.
+Voting Process:
+
+The program enters a loop where it displays the candidates and asks the user to vote by entering the number corresponding to a candidate.
+The user’s input is validated to ensure they enter a valid number (1, 2, or 3), and then the program increments the vote count for the selected candidate.
+Loop Control:
+
+After each vote, the user is asked if they want to continue voting. If they enter n, the loop ends, and the voting process stops.
+Vote Count Display:
+
+Once voting ends, the program prints the number of votes each candidate received.
+Winner or Tie:
+
+The program checks which candidate received the highest number of votes. If there is a tie, it informs the user; otherwise, it announces the winner.
+How to Run It:
+Open Visual Studio or any C# IDE.
+Create a new Console Application project.
+Replace the Program.cs content with the code above.
+Run the application and follow the prompts.
+Features You Could Add:
+Input Validation: Handle edge cases like empty or non-numeric input more robustly.
+Multiple Voters: Track individual voters by adding voter IDs or names.
+Vote Limit: Set a limit for the number of votes a user can cast.
+Persistent Data: Use file storage to save results for future reference.
+This project is great for practicing loops, arrays or lists, conditionals, and user input handling in C#.

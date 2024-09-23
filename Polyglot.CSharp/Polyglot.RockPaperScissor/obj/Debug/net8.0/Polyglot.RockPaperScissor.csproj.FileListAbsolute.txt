@@ -1,0 +1,14 @@
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.RockPaperScissor\bin\Debug\net8.0\Polyglot.RockPaperScissor.exe
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.RockPaperScissor\bin\Debug\net8.0\Polyglot.RockPaperScissor.deps.json
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.RockPaperScissor\bin\Debug\net8.0\Polyglot.RockPaperScissor.runtimeconfig.json
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.RockPaperScissor\bin\Debug\net8.0\Polyglot.RockPaperScissor.dll
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.RockPaperScissor\bin\Debug\net8.0\Polyglot.RockPaperScissor.pdb
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.RockPaperScissor\obj\Debug\net8.0\Polyglot.RockPaperScissor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.RockPaperScissor\obj\Debug\net8.0\Polyglot.RockPaperScissor.AssemblyInfoInputs.cache
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.RockPaperScissor\obj\Debug\net8.0\Polyglot.RockPaperScissor.AssemblyInfo.cs
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.RockPaperScissor\obj\Debug\net8.0\Polyglot.RockPaperScissor.csproj.CoreCompileInputs.cache
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.RockPaperScissor\obj\Debug\net8.0\Polyglot.RockPaperScissor.dll
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.RockPaperScissor\obj\Debug\net8.0\refint\Polyglot.RockPaperScissor.dll
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.RockPaperScissor\obj\Debug\net8.0\Polyglot.RockPaperScissor.pdb
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.RockPaperScissor\obj\Debug\net8.0\Polyglot.RockPaperScissor.genruntimeconfig.cache
+C:\Users\paras.dhawan\source\repos\Polyglot.CSharp\Polyglot.RockPaperScissor\obj\Debug\net8.0\ref\Polyglot.RockPaperScissor.dll
